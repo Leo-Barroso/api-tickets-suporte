@@ -1,0 +1,32 @@
+{
+  "tickets": [
+    {
+      "id": "ff421998-4d88-465f-8f71-bfcb4465c169",
+      "equipment": "Desktop",
+      "description": "Máquina não inicia.",
+      "user_name": "Leonardo Barroso",
+      "status": "open",
+      "create_at": "2024-09-03T18:24:07.965Z",
+      "updated_at": "2024-09-03T18:24:07.965Z"
+    },
+    {
+      "id": "628c7908-e0eb-4c7e-bdd0-c14163972e20",
+      "equipment": "Teclado",
+      "description": "Tecla ESC sem funcionar.",
+      "user_name": "Arthur Barroso",
+      "status": "Open",
+      "create_at": "2024-09-03T21:15:05.646Z",
+      "updated_at": "2024-09-03T21:15:05.646Z"
+    },
+    {
+      "id": "a9896cc4-aae5-4d52-8c43-e206d1e8de67",
+      "equipment": "Webcam",
+      "description": "Imagem não aparecendo.",
+      "user_name": "Arthur Barroso",
+      "status": "closed",
+      "create_at": "2024-09-04T01:12:44.953Z",
+      "updated_at": "2024-09-04T01:12:44.953Z",
+      "solution": "Equipamento substituído."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "api-tickets-suporte",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de tickets de suporte.",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "Leonardo Barroso",
+  "license": "ISC"
+}
